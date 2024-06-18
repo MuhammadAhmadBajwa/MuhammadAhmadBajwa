@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bajwa</h1>
 <h3 align="center">A CS Student</h3>
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **Machine Learning**
 - 👀 I’m interested in **Robotics**
 - ⚡ Fun fact **I am a melophile**
 
