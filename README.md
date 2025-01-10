@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 - 👀 I’m interested in **Robotics**
-- ⚡ Fun fact **I am a melophile**
 
 <p align="left">
 </p>
